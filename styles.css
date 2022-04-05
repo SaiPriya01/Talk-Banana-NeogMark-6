@@ -13,8 +13,9 @@
 }
 
 .container {
+    margin: 0rem 6rem;
     padding: 1.5rem;
-    width: 100%;
+    /* width: 100%; */
     background-color: var(--primary-color);
     color: var(--secondary-color);
     border-bottom-left-radius: 1rem;
@@ -46,9 +47,9 @@
 }
 
 textarea {
-    width: 80%;
-    height: 27vh;
-    margin: 1rem 0rem;
+    width: 60%;
+    height: 25vh;
+    margin: 1rem 2rem;
     font-size: 1.8rem;
     font-weight: 200;
     padding: 1rem;
@@ -84,7 +85,7 @@ textarea {
 }
 
 .output {
-    width: 80%;
+    width: 60%;
     height: 27vh;
     margin: 1rem 0rem;
     font-size: 1.8rem;
@@ -100,8 +101,9 @@ textarea {
 }
 
 .footer {
+    margin: 0rem 6rem;
     padding: 1.5rem 0rem;
-    width: 100%;
+    /* width: 100%; */
     background-color: var(--primary-color);
     color: var(--secondary-color);
     border-top-left-radius: 1rem;
