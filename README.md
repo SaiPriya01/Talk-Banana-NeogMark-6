@@ -9,3 +9,4 @@ Use the translator to convert your text from English to Minion speak.
 - JavaScript
 - API from [fun translations](https://funtranslations.com/minion)
 # Live Link
+[Open Live App](https://neogcamp-minion-speak.netlify.app/)
